@@ -13,7 +13,7 @@ Heyyyy
 
 Howdy Here's a code chunk where you can work:
 ```{r Erin}
-
+plot(cars)
 ```
 
 And here is where I will work
