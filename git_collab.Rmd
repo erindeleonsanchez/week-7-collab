@@ -14,6 +14,7 @@ Heyyyy
 Howdy Here's a code chunk where you can work:
 ```{r Erin}
 plot(cars)
+I need to pee but it isn't worth it for me to leave 
 ```
 
 And here is where I will work
